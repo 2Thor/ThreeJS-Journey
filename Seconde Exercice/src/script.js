@@ -21,6 +21,8 @@ mesh.scale.y = 0.5
 mesh.scale.z = 0.5*/
 mesh.scale.set(2,0.5,0.5)
 
+// Rotation
+
 // Sizes
 const sizes = {
     width: 800,
