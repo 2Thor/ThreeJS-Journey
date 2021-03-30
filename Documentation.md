@@ -1,5 +1,5 @@
 # Documentation ThreeJS by Dethoor Clément
-(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[CheatSheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Installation 
 
