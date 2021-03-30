@@ -17,8 +17,10 @@ Use starter pack on my [Github](https://github.com/2Thor/ThreeJS-Journey)
 
 ## Basic infos : 
 
-```/**
+```
+/**
  * Axes Helper
  */
 const axesHelper = new THREE.AxesHelper(2)
-scene.add(axesHelper)```
+scene.add(axesHelper)
+```
