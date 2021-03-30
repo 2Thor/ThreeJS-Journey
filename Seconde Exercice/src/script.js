@@ -22,6 +22,9 @@ mesh.scale.z = 0.5*/
 mesh.scale.set(2,0.5,0.5)
 
 // Rotation
+mesh.rotation.reorder('XYZ')
+mesh.rotation.y = Math.PI / 2
+mesh.rotation.y = Math.PI / 2
 
 // Sizes
 const sizes = {
