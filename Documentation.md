@@ -15,4 +15,10 @@ We choose Webpack as our bundle because it’s one of the most popular currently
 
 Use starter pack on my [Github](https://github.com/2Thor/ThreeJS-Journey)
 
+## Basic infos : 
 
+```/**
+ * Axes Helper
+ */
+const axesHelper = new THREE.AxesHelper(2)
+scene.add(axesHelper)```
