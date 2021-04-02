@@ -7,7 +7,7 @@ _Bundle def : You can see that like a pipe in which you send non-web-friendly as
 We choose Webpack as our bundle because it’s one of the most popular currently._
 
 1. Dowload NodeJS.
-2. NPM install
+2. npm install
 3. npm run dev
 
 > **PS** : If you want to build your website to deploy it online, you can run npm run build. The final files will appear in the /dist/ folder.
@@ -21,6 +21,6 @@ Use starter pack on my [Github](https://github.com/2Thor/ThreeJS-Journey)
 /**
  * Axes Helper
  */
-const axesHelper = new THREE.AxesHelper(2)
+const axesHelper = new THREE.AxesHelper(2) //lenght
 scene.add(axesHelper)
 ```
