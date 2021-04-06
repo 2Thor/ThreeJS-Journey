@@ -17,6 +17,8 @@ Use starter pack on my [Github](https://github.com/2Thor/ThreeJS-Journey)
 
 ## Basic infos : 
 
+get axes helper :
+
 ```
 /**
  * Axes Helper
@@ -24,3 +26,9 @@ Use starter pack on my [Github](https://github.com/2Thor/ThreeJS-Journey)
 const axesHelper = new THREE.AxesHelper(2) //lenght
 scene.add(axesHelper)
 ```
+There are 4 properties to transform objects in our scene
+
+    - position (to move the object)
+    - scale (to resize the object)
+    - rotation (to rotate the object)
+    - quaternion (to also rotate the object; more about that later)
