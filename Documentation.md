@@ -1,5 +1,5 @@
 # Documentation ThreeJS by Dethoor Clément 
-[CheatSheet Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+[CheatSheet Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Installation 
 
@@ -15,9 +15,16 @@ We choose Webpack as our bundle because it’s one of the most popular currently
 
 Use starter pack on my [Github](https://github.com/2Thor/ThreeJS-Journey)
 
+
+## SUMMARY
+
+- First exercice : 
+- Second exercice : 
+
+
 ## Basic infos : 
 
-get axes helper :
+Get axes helper :
 
 ```
 /**
@@ -26,9 +33,11 @@ get axes helper :
 const axesHelper = new THREE.AxesHelper(2) //lenght
 scene.add(axesHelper)
 ```
+/--------------------------------------------------------------------------------------------/
+
 There are 4 properties to transform objects in our scene
 
 * position (to move the object)
 * scale (to resize the object)
 * rotation (to rotate the object)
-* quaternion (to also rotate the object; more about that later)
+* quaternion (to also rotate the object)
