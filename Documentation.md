@@ -15,13 +15,6 @@ We choose Webpack as our bundle because it’s one of the most popular currently
 
 Use starter pack on my [Github](https://github.com/2Thor/ThreeJS-Journey)
 
-
-## SUMMARY
-
-- First exercice : 
-- Second exercice : 
-
-
 ## Basic infos : 
 
 Get axes helper :
@@ -33,7 +26,6 @@ Get axes helper :
 const axesHelper = new THREE.AxesHelper(2) //lenght
 scene.add(axesHelper)
 ```
-/--------------------------------------------------------------------------------------------/
 
 There are 4 properties to transform objects in our scene
 
