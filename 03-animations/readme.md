@@ -13,4 +13,7 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+
+# Install gsap ( --save add dependenbcies on package.json )
+npm install --save gsap@3.5.1 
 ```
