@@ -1,19 +1,5 @@
-# Three.js Journey
+# Install gsap ( --save add dependencies on package.json )
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-
-# Install gsap ( --save add dependenbcies on package.json )
+```
 npm install --save gsap@3.5.1 
 ```
