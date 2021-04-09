@@ -5,7 +5,6 @@ https://threejs-journey.xyz
 
 Using webpack for module bundler
 
-## SUMMARY
+every new course : 
 
-- First exercice - First scene
-- Second exercice - Webpack & Object transformation 
+npm install webpack-dev-server
