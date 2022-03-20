@@ -1,6 +1,6 @@
 # ThreeJS-Journey
 
-During many days I follow the Bruno Simon's course about ThreeJS.
+During handful days I follow the Bruno Simon's course about ThreeJS.
 https://threejs-journey.xyz
 
 Using webpack for module bundler
